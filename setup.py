@@ -2,7 +2,4 @@
 
 import os
 
-os.system("apt-get update")
-os.system("apt-get upgrade")
-os.system("apt-get install figlet")
-os.system("apt-get install colorama")
+os.system("python3 -m pip install -r requirements.txt")
