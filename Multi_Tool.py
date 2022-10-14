@@ -3,7 +3,6 @@
 import os
 import colorama
 import time
-from module import handler
 from colorama import Fore, Back, Style
 
 
